@@ -1,4 +1,4 @@
-# Tetris-Number
+# Tetris-512
 [Unity-Version] 2020.3.18f1
 
 A complete casual mobile game based on the combination of 2 titles Tetris and 512.
