@@ -39,7 +39,7 @@ TextureImporter:
       213: -6203207614509563361
     second: blocks-light_11
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -60,6 +60,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -98,6 +99,7 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -388,6 +390,19 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      blocks-light_0: -8988364276314346543
+      blocks-light_1: -421260620167319893
+      blocks-light_10: -7425731114453540135
+      blocks-light_11: -6203207614509563361
+      blocks-light_2: -7002044826240607624
+      blocks-light_3: -5438509868760021460
+      blocks-light_4: 2613286451436501760
+      blocks-light_5: 7090115435190607588
+      blocks-light_6: 9191023985120212938
+      blocks-light_7: -2941391186194584696
+      blocks-light_8: 553917454137594757
+      blocks-light_9: 325682792872089158
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
